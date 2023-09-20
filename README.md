@@ -1,5 +1,5 @@
-# lab-nlp
-_Dépot qui permet de construire une image docker boîte à outil en NLP, avec une sur-couche ovh pour profiter du service ai-training (notebook, gestion mémoire...)._
+# lab-llm
+_Dépot qui permet de profiter du service ai-notebook
 
 # Prérequis
 
